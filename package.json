@@ -94,7 +94,7 @@
     "base32.js": "0.1.0",
     "bignumber.js": "2.4.0",
     "crc": "3.8.0",
-    "ed25519": "0.0.4",
+    "ed25519": "0.0.5",
     "form-data": "2.3.3",
     "js-xdr": "1.1.2",
     "jsona": "1.5.0",
@@ -108,7 +108,7 @@
     "yarn": "^1.16.0"
   },
   "optionalDependencies": {
-    "ed25519": "0.0.4"
+    "ed25519": "0.0.5"
   },
   "directories": {
     "doc": "docs",
